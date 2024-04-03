@@ -3,7 +3,7 @@
 #include "binary_trees.h"
 
 /**
- * print_num - Prints a number
+ * print_num - Prints number
  *
  * @n: Number to be printed
  */
